@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     46.77781462 deg
+Longitude:    -92.09632950 deg
+Altitude ASL: 317.6023 m (1042.0024 ft)
+39Heading:      62.5 deg
+Ground Elev:  180.9943 m (593.8134 ft)
+
+# w100n40/w093n46/1434163.stg
+OBJECT_STATIC -92.09632950 46.77781462 180.9943 297.5
+
+http://maps.google.com/maps?ll=46.7778146230,-92.0963295006&z=12&t=h
+$ fgfs --aircraft=ufo --lat=46.777815 --lon=-92.096330 --altitude=1042.00 --heading=44.5
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/aerial-lift-bridge/aerial-lift-bridge.ac
+Latitude:     46.77894554 deg
+Longitude:    -92.09288635 deg
+Altitude ASL: 181.9077 m (596.8100 ft)
+Heading:      -24.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/aerial-lift-bridge/aerial-lift-bridge.ac -92.09288635 46.77894554 181.9077 24.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/aerial-lift-bridge/aerial-lift-bridge.ac -92.09288635 46.77894554 181.9077 24.0 -0.0 0.0 -0.0
