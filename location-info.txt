@@ -30,3 +30,5 @@ OBJECT_SHARED /home/david/Models/aerial-lift-bridge/aerial-lift-bridge.ac -92.09
 
 # Lines for upload form
 OBJECT_SHARED /home/david/Models/aerial-lift-bridge/aerial-lift-bridge.ac -92.09288635 46.77894554 181.9077 24.0 -0.0 0.0 -0.0
+
+(raise 1m above the ground?)
