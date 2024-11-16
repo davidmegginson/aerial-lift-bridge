@@ -7,6 +7,10 @@ Low-fidelity 3D model of Duluth's [Aerial Lift Bridge](https://en.wikipedia.org/
 
 ## Changes
 
+### 2024-11-16
+
+- major texture/UV improvements
+
 ### 2024-09-17
 
 - completed model for submission to FlightGear
@@ -27,6 +31,6 @@ This model is released into the Public Domain. See UNLICENSE.md for details.
 
 ## Author
 
-Started by David Megginson, August 2024.  Attribution is appreciated, but not required.
+Started by David Megginson, August 2024.  Major texture and UV-mapping improvements by [@VoladorUK](https://github.com/VoladorUK).  Attribution is appreciated, but not required.
 
 

@@ -1,4 +1,4 @@
-FG_SCENERY=${HOME}/.local/share/scenery/local-scenery-mods
+FG_SCENERY=${HOME}/Dropbox/FlightGear/local-scenery-mods
 
 TARGET_DIR=Objects/w100n40/w093n46/
 
