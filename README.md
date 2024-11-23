@@ -5,6 +5,8 @@ Low-fidelity 3D model of Duluth's [Aerial Lift Bridge](https://en.wikipedia.org/
 
 ![image](https://github.com/user-attachments/assets/ce838e63-ca51-4dba-95ad-e85bf971b900)
 
+Closest airport: [Duluth International](https://ourairports.com/airports/KDLH/) (KDLH).
+
 ## Changes
 
 ### 2024-11-16
